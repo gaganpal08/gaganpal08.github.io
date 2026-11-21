@@ -216,7 +216,18 @@ my website
       class="profile-picture"
     >
   </section>
+<section id="contact">
+  <h2>Contact</h2>
 
+  <p>
+    Email me at
+    <a href="mailto:gp456489@gmail.com">gp456489@gmail.com</a>
+  </p>
+
+  <form id="contact-form">
+    <!-- form fields -->
+  </form>
+</section>
   <section id="about">
     <h2>About Me</h2>
     <div class="card">
